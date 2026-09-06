@@ -6,11 +6,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=Building+the+future+one+line+of+code+at+a+time...;Learning.+Building.+Improving.;Frontend+%7C+Full+Stack+%7C+AI;Turning+ideas+into+reality+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;Learning+React.js+and+Full+Stack+Development;Exploring+AI-Powered+Web+Applications;Turning+Ideas+Into+Projects" alt="Typing SVG" />
 
 </div>
-
-
 
 **Learning • Building • Improving • Repeating 🚀**
 
