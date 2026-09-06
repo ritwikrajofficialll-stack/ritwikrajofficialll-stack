@@ -4,6 +4,14 @@
 
 ### 💻 B.Tech CSE Student | Frontend Developer in the Making | AI Explorer
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=Building+the+future+one+line+of+code+at+a+time...;Learning.+Building.+Improving.;Frontend+%7C+Full+Stack+%7C+AI;Turning+ideas+into+reality+🚀" />
+
+</div>
+
+
+
 **Learning • Building • Improving • Repeating 🚀**
 
 </div>
