@@ -52,7 +52,7 @@ Development, Python, Git & GitHub**, while exploring the world of
 
 ### 🚀 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,java" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,java,c,c++" />
 
 </div>
 
